@@ -1,0 +1,19 @@
+# 個人知識庫內容（不上傳）
+wiki/sources/
+wiki/concepts/
+wiki/entities/
+wiki/synthesis/
+outputs/posts/
+
+# 保留模板檔案
+!wiki/index.md
+!wiki/log.md
+!wiki/QUESTIONS.md
+!outputs/posts/.gitkeep
+
+# Obsidian 設定（視情況決定是否上傳）
+.obsidian/
+
+# 系統檔
+.DS_Store
+Thumbs.db
