@@ -74,8 +74,10 @@ git clone https://github.com/YOUR_USERNAME/obsidian-llm-wiki.git
 
 ### 6. 安裝 NotebookLM MCP（可選，用於自動生成配圖）
 
+需要先安裝 [uv](https://docs.astral.sh/uv/getting-started/installation/)，然後：
+
 ```bash
-pip install notebooklm-mcp-cli
+uv tool install notebooklm-mcp-cli
 nlm login
 ```
 
