@@ -1,6 +1,6 @@
 # Obsidian LLM Wiki 懶人包
 
-受 [Andrej Karpathy 的 LLM Wiki 模式](https://github.com/karpathy/llm.sh) 啟發，打造一套可以讓 AI 幫你蒐集、整理、累積知識的 Obsidian 工作流。
+受 [Andrej Karpathy 的 LLM Wiki 模式](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 啟發，打造一套可以讓 AI 幫你蒐集、整理、累積知識的 Obsidian 工作流。
 
 把原始文章丟進去 → AI 自動摘要建檔 → 跨來源合成分析 → 直接用中文問知識庫。
 
