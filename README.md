@@ -117,7 +117,6 @@ lint
 - [白白说大模型](https://www.youtube.com/watch?v=csGRKlNnnpU&t=384s)
 - [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Egj_DdGUIDI&t=85s)
 - [三師爸Sense Bar](https://www.youtube.com/watch?v=b21TUOL1JdI)
-- 
 
 ---
 
