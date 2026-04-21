@@ -109,8 +109,15 @@ lint
 ## 致謝
 
 - [Andrej Karpathy](https://github.com/karpathy) — LLM Wiki 概念發想
-- [kepano](https://github.com/kepano) — obsidian-skills 技能包
+- [kepano](https://github.com/kepano/obsidian-skills) — obsidian-skills 技能包
 - [YishenTu](https://github.com/YishenTu) — Claudian 插件
+- [LLM Wiki 搭建教程](https://hcn9zwu8a0fz.feishu.cn/wiki/AM3ewXySViopPdkE8Gic90BDnRb)
+- [丹妮tech](https://www.youtube.com/watch?v=ohPBYGN8a9Y)
+- [Blink 的 AI 笔记](https://www.youtube.com/watch?v=eUaL48Ph6DM&t=304s)
+- [白白说大模型](https://www.youtube.com/watch?v=csGRKlNnnpU&t=384s)
+- [PAPAYA 電腦教室](https://www.youtube.com/watch?v=Egj_DdGUIDI&t=85s)
+- [三師爸Sense Bar](https://www.youtube.com/watch?v=b21TUOL1JdI)
+- 
 
 ---
 
